@@ -1,0 +1,73 @@
+﻿@page
+@model BookManagement_RazorPage.Pages.BookPage.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+    //Author
+    string role = HttpContext.Session.GetString("Role");
+
+    if (!role.Equals("Admin")&&!role.Equals("User"))
+    {
+        Response.Redirect("/Permission");
+    }
+}
+
+<h1>Index</h1>
+
+@{
+    if (role.Equals("Admin"))
+    {
+        <p>
+            <a asp-page="Create">Create New</a>
+        </p>
+    }
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Books[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Books[0].Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Books[0].Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Books[0].Category.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var book in Model.Books) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => book.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => book.Author)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => book.Price)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => book.Category.Name)
+            </td>
+            <td>
+                    @{
+                        if(role.Equals("Admin"))
+                        {
+                            <a asp-page="./Edit" asp-route-id="@book.Id">Edit</a>
+                            <a asp-page="./Details" asp-route-id = "@book.Id"> Details </a> 
+                            <a asp-page="./Delete" asp-route-id = "@book.Id"> Delete </a>
+                        }
+                    }
+                    
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

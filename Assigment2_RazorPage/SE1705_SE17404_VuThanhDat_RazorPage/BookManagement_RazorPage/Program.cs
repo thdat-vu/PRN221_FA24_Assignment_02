@@ -11,20 +11,21 @@ namespace BookManagement_RazorPage
 
             // Add services to the container.
             builder.Services.AddRazorPages();
-            // Service
-            builder.Services.AddScoped<IAccountService, AccountService>();
+			// Repo + Service
+
+			builder.Services.AddScoped<IAccountRepo, AccountRepo>();
+			builder.Services.AddScoped<IAccountService, AccountService>();
+			builder.Services.AddScoped<IBookRepo, BookRepo>();
             builder.Services.AddScoped<IBookService, BookService>();
+			builder.Services.AddScoped<ICategoryRepo, CategoryRepo>();
             builder.Services.AddScoped<ICategoryService, CategorySerivce>();
+			builder.Services.AddScoped<IOrderRepo, OrderRepo>();
             builder.Services.AddScoped<IOrderService, OrderService>();
+			builder.Services.AddScoped<IOrderDetailRepo, OrderDetailRepo>();
             builder.Services.AddScoped<IOrderDetailService, OrderDetailService>();
+			
 
-            // Repo
-
-            builder.Services.AddScoped<IAccountRepo, AccountRepo>();
-            builder.Services.AddScoped<IBookRepo, BookRepo>();
-            builder.Services.AddScoped<ICategoryRepo, CategoryRepo>();
-            builder.Services.AddScoped<IOrderRepo, OrderRepo>();
-            builder.Services.AddScoped<IOrderDetailRepo, OrderDetailRepo>();
+            
 
             // Session
             builder.Services.AddSession();
@@ -46,8 +47,8 @@ namespace BookManagement_RazorPage
 
             app.UseAuthorization();
 
+            app.UseSession();
             app.MapRazorPages();
-
             app.Run();
         }
     }
