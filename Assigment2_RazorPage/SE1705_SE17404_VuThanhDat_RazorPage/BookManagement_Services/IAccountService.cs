@@ -10,5 +10,7 @@ namespace BookManagement_Services
 	public interface IAccountService
 	{
 		public Account GetAccount(string username);
-	}
+		public Account GetAccountById(int id);
+
+    }
 }

@@ -20,5 +20,10 @@ namespace BookManagement_Services
         {
             return accountRepo.GetAccount(username);
         }
-	}
+
+        public Account GetAccountById(int id)
+        {
+            return accountRepo.GetAccountById(id);
+        }
+    }
 }

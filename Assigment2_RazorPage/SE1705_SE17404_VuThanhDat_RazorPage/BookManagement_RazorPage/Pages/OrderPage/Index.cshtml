@@ -1,0 +1,69 @@
+﻿@page
+@model BookManagement_RazorPage.Pages.OrderPage.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+    string role = HttpContext.Session.GetString("Role");
+
+    if (!role.Equals("Admin"))
+    {
+        Response.Redirect("/Permission");
+    }
+}
+
+<h1>Order History</h1>
+
+<div class="mb-3">
+    <form method="post" asp-page="/Logout">
+        <button type="submit" class="btn btn-danger">Logout</button>
+    </form>
+</div>
+
+@{
+    if (role.Equals("Admin"))
+    {
+        <div class="mb-3">
+            <a asp-page="/BookPage/Index" class="btn btn-primary">Go to Book List</a>
+        </div>
+    }
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Order[0].OrderDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order[0].TotalAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order[0].Account)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Order) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalAmount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Account.Username)
+            </td>
+            <td>
+                
+                @{
+                    if(role.Equals("Admin"))
+                    {
+                        <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                    }
+                }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -12,16 +12,25 @@
     }
 }
 
-<h1>Index</h1>
+<h1>Book List</h1>
 
 @{
     if (role.Equals("Admin"))
     {
         <p>
-            <a asp-page="Create">Create New</a>
+            <a asp-page="Create" class="btn btn-primary">Create New</a>
         </p>
+        <div class="mb-3">
+            <a asp-page="/OrderPage/Index" class="btn btn-primary">Go to Orders</a>
+        </div>
     }
 }
+
+<div class="mb-3">
+    <form method="post" asp-page="/Logout">
+        <button type="submit" class="btn btn-danger">Logout</button>
+    </form>
+</div>
 
 <table class="table">
     <thead>
@@ -60,9 +69,9 @@
                     @{
                         if(role.Equals("Admin"))
                         {
-                            <a asp-page="./Edit" asp-route-id="@book.Id">Edit</a>
-                            <a asp-page="./Details" asp-route-id = "@book.Id"> Details </a> 
-                            <a asp-page="./Delete" asp-route-id = "@book.Id"> Delete </a>
+                            <a asp-page="./Edit" asp-route-id="@book.Id" class="btn btn-success">Edit</a>
+                            <a asp-page="./Details" asp-route-id="@book.Id" class="btn btn-info"> Details </a>
+                            <a asp-page="./Delete" asp-route-id="@book.Id" class="btn btn-danger"> Delete </a>
                         }
                     }
                     

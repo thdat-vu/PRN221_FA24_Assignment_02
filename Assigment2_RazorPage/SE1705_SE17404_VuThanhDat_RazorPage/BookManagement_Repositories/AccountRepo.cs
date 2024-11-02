@@ -14,5 +14,10 @@ namespace BookManagement_Repositories
 		{
 			return AccountDAO.Instance.GetAccount(username);
 		}
-	}
+
+        public Account GetAccountById(int id)
+        {
+            return AccountDAO.Instance.GetAccountById(id);
+        }
+    }
 }

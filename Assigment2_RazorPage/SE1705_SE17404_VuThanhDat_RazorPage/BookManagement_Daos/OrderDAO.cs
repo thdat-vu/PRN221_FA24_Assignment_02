@@ -29,8 +29,10 @@ namespace BookManagement_Daos
             context = new BookManagementContext();	
         }
 
-		public Order GetOrder(int id) => context.Orders.SingleOrDefault(o => o.Id == id);
-		public List<Order> GetOrders() => context.Orders.ToList();
+		public Order GetOrder(int id) => context.Orders.
+                                         Include(o => o.OrderDetails)
+                                         .FirstOrDefault(o => o.Id == id);
+		public List<Order> GetOrders() => context.Orders.Include(o => o.OrderDetails).ToList();
 
         public List<Order> GetOrdersByUserId(int userId)
         {

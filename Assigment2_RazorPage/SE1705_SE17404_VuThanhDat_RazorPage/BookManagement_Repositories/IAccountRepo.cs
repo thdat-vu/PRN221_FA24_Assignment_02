@@ -10,5 +10,6 @@ namespace BookManagement_Repositories
 	public interface IAccountRepo
 	{
 		public Account GetAccount(string username);
+		public Account GetAccountById(int id);
 	}
 }

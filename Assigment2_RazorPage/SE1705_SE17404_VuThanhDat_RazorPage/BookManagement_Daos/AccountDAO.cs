@@ -29,5 +29,6 @@ namespace BookManagement_Daos
 		}
 
 		public Account GetAccount(string username) => context.Accounts.SingleOrDefault(a => a.Username.Equals(username));
+		public Account GetAccountById(int id) => context.Accounts.SingleOrDefault(a => a.Id == id);
 	}
 }

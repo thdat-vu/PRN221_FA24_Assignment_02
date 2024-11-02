@@ -1,0 +1,8 @@
+﻿@page
+@model BookManagement_RazorPage.Pages.LogoutModel
+@{
+	// Clear session
+	HttpContext.Session.Clear();
+	// Redirect to the login page
+	Response.Redirect("/Login"); 
+}
