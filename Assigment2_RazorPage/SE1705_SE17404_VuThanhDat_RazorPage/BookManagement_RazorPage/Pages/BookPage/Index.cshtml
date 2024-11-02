@@ -10,6 +10,7 @@
     {
         Response.Redirect("/Permission");
     }
+    
 }
 
 <h1>Book List</h1>
@@ -45,7 +46,7 @@
                 @Html.DisplayNameFor(model => model.Books[0].Price)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Books[0].Category.Name)
+                @Html.DisplayNameFor(model => model.Books[0].Category)
             </th>
             <th></th>
         </tr>

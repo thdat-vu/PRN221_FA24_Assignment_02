@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_razorpage\\pages\\orderpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|solutionrelative:bookmanagement_razorpage\\pages\\orderpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_razorpage\\pages\\bookpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|solutionrelative:bookmanagement_razorpage\\pages\\bookpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_razorpage\\pages\\bookpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|solutionrelative:bookmanagement_razorpage\\pages\\bookpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_razorpage\\pages\\bookpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|solutionrelative:bookmanagement_razorpage\\pages\\bookpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_razorpage\\pages\\bookpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|solutionrelative:bookmanagement_razorpage\\pages\\bookpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_razorpage\\pages\\orderpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|solutionrelative:bookmanagement_razorpage\\pages\\orderpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_razorpage\\pages\\bookpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|solutionrelative:bookmanagement_razorpage\\pages\\bookpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{610B5BC0-5C54-4DB5-B54B-0DAB2792086C}|BookManagement_Daos\\BookManagement_Daos.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_daos\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610B5BC0-5C54-4DB5-B54B-0DAB2792086C}|BookManagement_Daos\\BookManagement_Daos.csproj|solutionrelative:bookmanagement_daos\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_razorpage\\pages\\orderpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|solutionrelative:bookmanagement_razorpage\\pages\\orderpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_razorpage\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,20 +63,8 @@
       "RelativeMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|solutionrelative:bookmanagement_razorpage\\pages\\orderpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_razorpage\\pages\\bookpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|solutionrelative:bookmanagement_razorpage\\pages\\bookpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_razorpage\\pages\\bookpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|solutionrelative:bookmanagement_razorpage\\pages\\bookpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_razorpage\\pages\\bookpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|solutionrelative:bookmanagement_razorpage\\pages\\bookpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_razorpage\\pages\\bookpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{063BE9BF-07DF-4D16-91E0-FD1E00558A87}|BookManagement_RazorPage\\BookManagement_RazorPage.csproj|solutionrelative:bookmanagement_razorpage\\pages\\bookpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1704DE6A-848A-43F4-A3E7-25A13D726DB4}|BookManagement_Services\\BookManagement_Services.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AF01989B-2F95-48B7-9A48-15413C8E15D7}|BookManagement_BusinessObjects\\BookManagement_BusinessObjects.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_businessobjects\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF01989B-2F95-48B7-9A48-15413C8E15D7}|BookManagement_BusinessObjects\\BookManagement_BusinessObjects.csproj|solutionrelative:bookmanagement_businessobjects\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{610B5BC0-5C54-4DB5-B54B-0DAB2792086C}|BookManagement_Daos\\BookManagement_Daos.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_daos\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610B5BC0-5C54-4DB5-B54B-0DAB2792086C}|BookManagement_Daos\\BookManagement_Daos.csproj|solutionrelative:bookmanagement_daos\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{610B5BC0-5C54-4DB5-B54B-0DAB2792086C}|BookManagement_Daos\\BookManagement_Daos.csproj|e:\\newuniversitystuff\\prn221\\asignment\\assigment2_razorpage\\se1705_se17404_vuthanhdat_razorpage\\bookmanagement_daos\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -186,11 +186,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 28,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\Logout.cshtml",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\Logout.cshtml",
@@ -198,12 +198,11 @@
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T15:06:30.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T15:06:30.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -211,12 +210,11 @@
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T15:00:35.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T15:00:35.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\Shared\\_Layout.cshtml",
@@ -224,12 +222,11 @@
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T15:00:07.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T15:00:07.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\_ViewStart.cshtml",
@@ -237,12 +234,11 @@
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T14:40:31.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T14:40:31.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AccountService.cs",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_Services\\AccountService.cs",
               "RelativeDocumentMoniker": "BookManagement_Services\\AccountService.cs",
@@ -250,12 +246,11 @@
               "RelativeToolTip": "BookManagement_Services\\AccountService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T13:31:25.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:31:25.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IAccountService.cs",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_Services\\IAccountService.cs",
               "RelativeDocumentMoniker": "BookManagement_Services\\IAccountService.cs",
@@ -263,12 +258,11 @@
               "RelativeToolTip": "BookManagement_Services\\IAccountService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T13:31:17.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:31:17.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AccountRepo.cs",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_Repositories\\AccountRepo.cs",
               "RelativeDocumentMoniker": "BookManagement_Repositories\\AccountRepo.cs",
@@ -276,12 +270,11 @@
               "RelativeToolTip": "BookManagement_Repositories\\AccountRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T13:30:21.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:30:21.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IAccountRepo.cs",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_Repositories\\IAccountRepo.cs",
               "RelativeDocumentMoniker": "BookManagement_Repositories\\IAccountRepo.cs",
@@ -289,12 +282,11 @@
               "RelativeToolTip": "BookManagement_Repositories\\IAccountRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T13:29:58.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:29:58.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AccountDAO.cs",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_Daos\\AccountDAO.cs",
               "RelativeDocumentMoniker": "BookManagement_Daos\\AccountDAO.cs",
@@ -302,12 +294,11 @@
               "RelativeToolTip": "BookManagement_Daos\\AccountDAO.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T13:28:00.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:28:00.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\OrderPage\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\OrderPage\\Index.cshtml.cs",
@@ -315,25 +306,24 @@
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\OrderPage\\Index.cshtml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAADwvw8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T13:21:15.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:21:15.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\OrderPage\\Index.cshtml",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\OrderPage\\Index.cshtml",
               "ToolTip": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\OrderPage\\Index.cshtml",
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\OrderPage\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-02T13:21:15.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\OrderPage\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\OrderPage\\Details.cshtml.cs",
@@ -341,18 +331,17 @@
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\OrderPage\\Details.cshtml.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAqwCsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T13:21:15.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:21:15.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\OrderPage\\Details.cshtml",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\OrderPage\\Details.cshtml",
               "ToolTip": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\OrderPage\\Details.cshtml",
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\OrderPage\\Details.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-02T13:21:15.167Z",
               "EditorCaption": ""
@@ -367,8 +356,7 @@
               "RelativeToolTip": "BookManagement_BusinessObjects\\OrderDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T13:06:59.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:06:59.282Z"
             },
             {
               "$type": "Document",
@@ -380,8 +368,7 @@
               "RelativeToolTip": "BookManagement_BusinessObjects\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T13:06:52.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:06:52.799Z"
             },
             {
               "$type": "Document",
@@ -393,25 +380,24 @@
               "RelativeToolTip": "BookManagement_Daos\\OrderDAO.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAwwCIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T13:04:10.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:04:10.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 5,
               "Title": "OrderDetailDAO.cs",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_Daos\\OrderDetailDAO.cs",
               "RelativeDocumentMoniker": "BookManagement_Daos\\OrderDetailDAO.cs",
               "ToolTip": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_Daos\\OrderDetailDAO.cs",
               "RelativeToolTip": "BookManagement_Daos\\OrderDetailDAO.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T13:04:01.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Account.cs",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_BusinessObjects\\Account.cs",
               "RelativeDocumentMoniker": "BookManagement_BusinessObjects\\Account.cs",
@@ -419,8 +405,7 @@
               "RelativeToolTip": "BookManagement_BusinessObjects\\Account.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T12:40:59.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T12:40:59.146Z"
             },
             {
               "$type": "Document",
@@ -484,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\BookPage\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\BookPage\\Index.cshtml.cs",
@@ -492,18 +477,17 @@
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\BookPage\\Index.cshtml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T09:10:20.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T09:10:20.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\BookPage\\Index.cshtml",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\BookPage\\Index.cshtml",
               "ToolTip": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\BookPage\\Index.cshtml",
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\BookPage\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-02T09:10:19.967Z",
               "EditorCaption": ""
@@ -522,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\BookPage\\Delete.cshtml",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\BookPage\\Delete.cshtml",
@@ -530,8 +514,7 @@
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\BookPage\\Delete.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T09:10:19.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T09:10:19.748Z"
             },
             {
               "$type": "Document",
@@ -547,13 +530,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\BookPage\\Details.cshtml",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\BookPage\\Details.cshtml",
               "ToolTip": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\BookPage\\Details.cshtml",
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\BookPage\\Details.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-02T09:10:19.521Z",
               "EditorCaption": ""
@@ -572,13 +555,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\BookPage\\Edit.cshtml",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\BookPage\\Edit.cshtml",
               "ToolTip": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\BookPage\\Edit.cshtml",
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\BookPage\\Edit.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAmwCsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-02T09:10:19.184Z",
               "EditorCaption": ""
@@ -597,13 +580,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\BookPage\\Create.cshtml",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\BookPage\\Create.cshtml",
               "ToolTip": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\BookPage\\Create.cshtml",
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\BookPage\\Create.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-02T09:10:18.846Z",
               "EditorCaption": ""
@@ -646,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "E:\\NewUniversityStuff\\PRN221\\Asignment\\Assigment2_RazorPage\\SE1705_SE17404_VuThanhDat_RazorPage\\BookManagement_RazorPage\\Pages\\Login.cshtml",
               "RelativeDocumentMoniker": "BookManagement_RazorPage\\Pages\\Login.cshtml",
@@ -654,8 +637,7 @@
               "RelativeToolTip": "BookManagement_RazorPage\\Pages\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T08:46:23.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T08:46:23.05Z"
             },
             {
               "$type": "Document",
